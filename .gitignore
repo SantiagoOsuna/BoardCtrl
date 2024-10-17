@@ -1,0 +1,14 @@
+# Ignorar archivos y carpetas generados automáticamente por Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar configuraciones locales
+appsettings.Development.json
+
+# Ignorar otros archivos específicos
+*.log
